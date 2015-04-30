@@ -1,0 +1,26 @@
+body {
+	padding-top: 70px;
+	/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+h3 {
+	color: #777;
+	padding-bottom: 8px;
+	margin-top: 10px;
+	margin-left: 25px;
+	text-align: left;
+	font-size: 14px;
+}
+.table-hover tbody tr:hover > td, th {
+	cursor: pointer;
+	cursor: hand;
+}
+
+.checkbox input[type=checkbox]:checked + label:after {
+	font-family: 'Glyphicons Halflings';
+	content: "\e013";
+}
+
+.error-message {
+	color: #A94442;
+	font-weight: bold;
+}

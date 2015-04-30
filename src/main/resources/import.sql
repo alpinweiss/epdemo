@@ -1,0 +1,9 @@
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Mercury', 0.077, 'Unknown', 4880.0, TRUE, 'Mercury has an extremely thin atmosphere.');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Venus', 0.261, 'Unknown', 12104.0, TRUE, 'Venus has no natural satellite. After the Moon, it is the brightest natural object in the night sky.');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Earth', 0, 'Humanity', 12742.0, TRUE, 'Home, sweet home!');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Mars', 0.225, 'Unknown', 6780.0, TRUE, 'Mars is the second smallest planet in the Solar System, after Mercury.');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Jupiter', 0.588, 'Unknown', 139822.0, TRUE, 'The atmosphere of Jupiter essentially makes up the entire planet.');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Saturn', 1.2, 'Unknown', 116464.0, TRUE, 'Gas giant, the second largest in the Solar System, after Jupiter.');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Uranus', 2.6, 'William Herschel', 50724.0, TRUE,'Uranus has the coldest planetary atmosphere in the Solar System.');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Neptune', 4.3, 'Johann Galle', 49244.0, TRUE, 'Neptune was the first and only planet found by mathematical prediction rather than by empirical observation.');
+ insert into planet(name, distanceFromEarth, discoveredBy, diameter, atmosphere, description) values ('Pluto', 7.5, 'Clyde Tombaugh', 2368.0, FALSE, 'Not a planet!');
